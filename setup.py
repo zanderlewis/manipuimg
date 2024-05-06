@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='manipuimg',
-    version='0.0.1',
+    version='0.0.2',
     author='WolfTheDev',
     author_email='wolfthedev@gmail.com',
     description='A simple image manipulation library',
