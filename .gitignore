@@ -1,0 +1,5 @@
+dist/
+build/
+manipuimg.egg-info/
+
+.DS_Store
